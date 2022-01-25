@@ -6,6 +6,7 @@
 
 ### Mes projets actuels 
 - [! XRP Shop !](https://discord.gg/WQRaFwxdx)
+- [AideEducation](https://aideeducation.fr)
 
 
 ### Quelques statistiques
