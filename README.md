@@ -14,4 +14,5 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ### Quelques statistiques
 <img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=matyeu&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=matyeu&show_icons=true&theme=tokyonight&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matyeu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
