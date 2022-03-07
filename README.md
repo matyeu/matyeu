@@ -10,7 +10,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 ### Mes projets actuels 
 - [! XRP Shop !](https://discord.gg/WQRaFwxdx)
 - [AideEducation](https://aideeducation.fr)
-- [MONRP](https://github.com/matyeu/monrp)
+- [MONRP](https://github.com/matyeu/MonRP)
 
 ### Quelques statistiques
 <img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=matyeu&show_icons=true&hide_border=true&theme=tokyonight" />
