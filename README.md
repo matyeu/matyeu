@@ -13,6 +13,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - [! XRP Shop !](https://discord.gg/WQRaFwxdx)
 - [AideEducation](https://aideeducation.fr)
 - [MonRP](https://github.com/matyeu/MonRP)
+- [🌕・ Purple Moon](https://discord.gg/stBXZvVhfQ)
 
 ### Some statistics
 <img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=matyeu&show_icons=true&hide_border=true&theme=tokyonight" />
