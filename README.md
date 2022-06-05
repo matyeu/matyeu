@@ -20,7 +20,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - ! XRP Shop !
 
 ## 🔥 Open source projects
-*coming soon*
+- **🐻‍❄️ [Bernard](https://github.com/matyeu/bernard) is a multi-function discord bot written in Typescript**
 
 
 ### Some statistics
