@@ -12,11 +12,14 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ### My current projects 
 - [AideEducation](https://aideeducation.fr)
-- [MonRP](https://github.com/matyeu/MonRP)
+- [Bernard Bot](https://github.com/matyeu/bernard_bot)
+- [Bernard Site](https://github.com/matyeu/bernard_site)
 
 
 ### My last projects
 - ! XRP Shop !
+- MonRP
+- Purple Moon
 
 ## 🔥 Open source projects
 - **🐻‍❄️ [Bernard_bot](https://github.com/matyeu/bernard_bot) is a multi-function discord bot written in Typescript - ejs**
