@@ -12,6 +12,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ### My current projects 
 - [AideEducation](https://aideeducation.fr)
+- [KOYÉ](https://koye.io)
 - [Bernard Bot](https://github.com/matyeu/bernard_bot)
 - [Bernard Site](https://github.com/matyeu/bernard_site)
 
