@@ -12,12 +12,12 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ### My current projects 
 - [AideEducation](https://aideeducation.fr)
-- [KOYÉverse](https://koye.io)
 - [Bernard Bot](https://github.com/matyeu/bernard_bot)
 - [Bernard Site](https://github.com/matyeu/bernard_site)
 
 
 ### My last projects
+- [KOYÉverse](https://koye.io)
 - ! XRP Shop !
 - MonRP
 - Purple Moon
