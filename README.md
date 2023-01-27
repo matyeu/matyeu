@@ -23,8 +23,8 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - Purple Moon
 
 ## 🔥 Open source projects
-- **🐻‍❄️ [Bernard_bot](https://github.com/matyeu/bernard_bot) is a multi-function discord bot written in Typescript - ejs**
-- **🐻‍❄️ [Bernard_site](https://github.com/matyeu/bernard_site) is a website template for bot written in html - css - php - js**
+- **🐻‍❄️ [Bernard](https://github.com/matyeu/bernard) is a multi-function discord bot written in Typescript - ejs**
+- **🤖 [CITY BOT](https://github.com/matyeu/bernard_site) has all the tools you will need for your Discord server and your retro, written in Typescript**
 
 
 ### Some statistics
