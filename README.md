@@ -24,7 +24,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ## 🔥 Open source projects
 - **🐻‍❄️ [Bernard](https://github.com/matyeu/bernard) is a multi-function discord bot written in Typescript - ejs**
-- **🤖 [CITY BOT](https://github.com/matyeu/bernard_site) has all the tools you will need for your Discord server and your retro, written in Typescript**
+- **🤖 [CITY BOT](https://github.com/matyeu/citybot) has all the tools you will need for your Discord server and your retro, written in Typescript**
 
 
 ### Some statistics
