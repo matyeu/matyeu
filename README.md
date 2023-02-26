@@ -13,7 +13,6 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 ### My current projects 
 - [AideEducation](https://aideeducation.fr)
 - [Sharky](https://github.com/matyeu/sharky)
-- [CITY BOT](https://github.com/matyeu/citybot)
 
 
 ### My last projects
@@ -24,7 +23,6 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ## 🔥 Open source projects
 - **🦈 [Sharky](https://github.com/matyeu/sharky) is a multi-function discord bot written in Typescript - ejs**
-- **🤖 [CITY BOT](https://github.com/matyeu/citybot) has all the tools you will need for your Discord server and your retro, written in Typescript**
 
 
 ### Some statistics
