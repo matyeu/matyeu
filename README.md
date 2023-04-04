@@ -26,8 +26,8 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 
 ### Some statistics
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=matyeu&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="Languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=matyeu&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="Stats" src="https://github-readme-stats-git-master-matyeu.vercel.app/api?username=matyeu&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Languages used" src="https://github-readme-stats-git-master-matyeu.vercel.app/api/top-langs?username=matyeu&show_icons=true&theme=tokyonight&layout=compact" />
 
 ### Support
 - ☕️ **You can support me by donating on [buy me a coffee](https://www.buymeacoffee.com/matyeu) 💖**
