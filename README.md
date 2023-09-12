@@ -23,6 +23,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ## 🔥 Open source projects
 - **🦈 [Sharky](https://github.com/matyeu/sharky) is a multi-function discord bot written in Typescript - ejs**
+- **🎥 [Stream-Master](https://github.com/matyeu/stream-master) is a streaming bot for series, movies, anime etc...**
 
 
 ### Some statistics
