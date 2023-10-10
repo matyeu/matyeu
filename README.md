@@ -17,7 +17,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 
 ### My last projects
-- [KOYÉverse](https://koye.io)
+- [KOYÉverse](https://koyegang.com/)
 - ! XRP Shop !
 - MonRP
 - Purple Moon
