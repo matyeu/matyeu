@@ -26,6 +26,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - SOS HELP BOT (SHB)
 
 ## 🔥 Open source projects
+- **📋 [WL Manager](https://github.com/matyeu/WL-Manager) is a bot discord for managing your NFT whitelist Javascript**
 - **🦈 [Sharky](https://github.com/matyeu/sharky) is a multi-function discord bot written in Typescript - ejs**
 - **🎥 [Stream-Master](https://github.com/matyeu/stream-master) is a streaming bot for series, movies, anime etc... written in Typescript**
 - **🪙 [Coins-Bot](https://github.com/matyeu/coins-bot) is a bot whose aim is to develop an economy in each server written in Typescript**
