@@ -22,6 +22,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - ! XRP Shop !
 - MonRP
 - Purple Moon
+- [WL Manager](https://github.com/matyeu/WL-Manager)
 - [Sharky](https://github.com/matyeu/sharky)
 - SOS HELP BOT (SHB)
 
