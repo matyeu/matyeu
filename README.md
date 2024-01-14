@@ -15,6 +15,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - [Stream-Master](https://github.com/matyeu/stream-master)
 - [Coins-Bot](https://github.com/matyeu/coins-bot)
 - [Tool-Labs](https://discord.gg/vk3sha2r)
+- [SOS HELP BOT (SHB)](https://soshelpbot.com)
 
 
 ### My last projects
@@ -24,7 +25,6 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - Purple Moon
 - [WL Manager](https://github.com/matyeu/WL-Manager)
 - [Sharky](https://github.com/matyeu/sharky)
-- SOS HELP BOT (SHB)
 
 ## 🔥 Open source projects
 - **📋 [WL Manager](https://github.com/matyeu/WL-Manager) is a bot discord for managing your NFT whitelist Javascript**
