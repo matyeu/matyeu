@@ -14,7 +14,6 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - [AideEducation](https://aideeducation.fr)
 - [Stream-Master](https://github.com/matyeu/stream-master)
 - [Coins-Bot](https://github.com/matyeu/coins-bot)
-- [Tool-Labs](https://discord.gg/vk3sha2r)
 - [SOS HELP BOT (SHB)](https://soshelpbot.com)
 
 
@@ -25,9 +24,11 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - Purple Moon
 - [WL Manager](https://github.com/matyeu/WL-Manager)
 - [Sharky](https://github.com/matyeu/sharky)
+- [Tool-Labs](https://github.com/matyeu/tool-labs)
 
 ## 🔥 Open source projects
-- **📋 [WL Manager](https://github.com/matyeu/WL-Manager) is a bot discord for managing your NFT whitelist Javascript**
+- **📋 [WL Manager](https://github.com/matyeu/WL-Manager) is a bot discord for managing your NFT whitelist written in Javascript**
+- **⚡️ [Tool-Labs](https://github.com/matyeu/tool-labs) is a bot for managing CTFS written in typescript - ejs**
 - **🦈 [Sharky](https://github.com/matyeu/sharky) is a multi-function discord bot written in Typescript - ejs**
 - **🎥 [Stream-Master](https://github.com/matyeu/stream-master) is a streaming bot for series, movies, anime etc... written in Typescript**
 - **🪙 [Coins-Bot](https://github.com/matyeu/coins-bot) is a bot whose aim is to develop an economy in each server written in Typescript**
