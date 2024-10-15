@@ -16,15 +16,15 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 
 ### My last projects
 - [KOYÉverse](https://koyegang.com/)
-- ! XRP Shop !
-- MonRP
-- Purple Moon
 - [WL Manager](https://github.com/matyeu/WL-Manager)
 - [Sharky](https://github.com/matyeu/sharky)
 - [Tool-Labs](https://github.com/matyeu/tool-labs)
 - [Stream-Master](https://github.com/matyeu/stream-master)
 - [Coins-Bot](https://github.com/matyeu/coins-bot)
 - [SOS HELP BOT (SHB)](https://soshelpbot.com)
+- ! XRP Shop !
+- MonRP
+- Purple Moon
 
 ## 🔥 Open source projects
 - **📋 [WL Manager](https://github.com/matyeu/WL-Manager) is a bot discord for managing your NFT whitelist written in Javascript**
