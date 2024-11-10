@@ -11,11 +11,11 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 ```
 
 ### My current projects 
+- [KOYÉverse](https://koyeverse.com/)
 - [AideEducation](https://aideeducation.fr)
 
 
 ### My last projects
-- [KOYÉverse](https://koyegang.com/)
 - [WL Manager](https://github.com/matyeu/WL-Manager)
 - [Sharky](https://github.com/matyeu/sharky)
 - [Tool-Labs](https://github.com/matyeu/tool-labs)
