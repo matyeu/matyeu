@@ -1,7 +1,9 @@
 # Hi there 👋 
 
 ### My informations
-Hello I'm Mathieu, a french full stack web developer. I live in Nantes and I'm passionate about anime !
+Hello I'm Mathieu, a french full stack web developer. I live in Nantes and I'm passionate about anime !<br>
+In my spare time, I do two things: I look for dragon balls and I build codes stuffs... unfortunately I can't show you the dragon balls yet, too dangerous.
+
 - 🔭 How to contact me : [Discord](https://discord.com/users/916444775861850175) - [mat-yeu.dev](https://mat-yeu.dev)
 - 🌱 I develop my projects in language __JavaScript__, __Typescript__, __CSharp__, __Html__, __Php__, __Ejs__
 - 🍉 Frameworks used : __Symfony__, __Express__, __NextJs__, __NestJs__
