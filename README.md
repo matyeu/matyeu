@@ -33,8 +33,9 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 - **🪙 [Coins-Bot](https://github.com/matyeu/coins-bot) is a bot whose aim is to develop an economy in each server written in Typescript**
 
 ### Some statistics
-<img alt="Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=matyeu&theme=tokyonight&layout=compact" />
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matyeu&theme=tokyonight&layout=compact"/>
+<img alt="Stats" src="https://github-stats-extended.vercel.app/api/?username=matyeu&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-stats-extended.vercel.app<img width="962" height="254" alt="Capture d’écran 2026-09-02 à 15 38 13" src="https://github.com/user-attachments/assets/22080f9a-4647-4263-bda0-dadd4a0d2d94" />
+/api/top-langs/?username=matyeu&theme=tokyonight&layout=compact"/>
 
 ### Support
 - ☕️ **You can support me by donating on [buy me a coffee](https://www.buymeacoffee.com/matyeu) 💖**
