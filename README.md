@@ -13,7 +13,7 @@ const me = developers.find(dev => dev.name === 'Mathieu')
 ```
 
 ### My current projects 
-- [KOYÉverse](https://koyeverse.com/)
+- [Hubmify](https://hubmify.com/)
 - [NotWeak](https://notweak.fr/)
 - [AideEducation](https://aideeducation.fr)
 
